@@ -1,2 +1,7 @@
 Hello!
 Here is some info about this project.
+
+New changes
+
+Tests
+
