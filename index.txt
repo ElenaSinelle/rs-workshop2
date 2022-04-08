@@ -1,7 +1,17 @@
-Hello!
-Here is some info about this project.
+# Hello!
+## Main info about the project.
+Here is a very important info about the project.
+Blablabla.
 
-New changes
+## List of contributors.
+First contributor
+Second contributor
+Third contributor
 
-Tests
+## New changes
+Change No 1
+Change No 2
+
+## Tests
+The testa are under construction
 
